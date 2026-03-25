@@ -1,34 +1,38 @@
 {
   "imageurl": [
     {
-      "icon": "FaPython",
+      "icon": "FaDesktop",
       "title": "react-native-electron-platform",
-      "description": "A package for installing and managing React Native applications across different platforms.",
+      "description": "Enables running React Native apps on desktop platforms using Electron.",
       "url": "https://www.npmjs.com/package/react-native-electron-platform"
     },
     {
-      "icon": "FaCar",
+      "icon": "FaShieldAlt",
       "title": "react-native-vision-camera-spoof-detector",
-      "description": "A package for detecting spoofing attempts in vision camera applications.",
+      "description": "Detects spoofing and fake inputs in vision camera-based applications.",
       "url": "https://www.npmjs.com/package/react-native-vision-camera-spoof-detector"
     },
     {
-      "icon": "FaPaperPlane",
+      "icon": "FaFingerprint",
       "title": "react-native-biometric-verifier",
-      "description": "A package for verifying biometric authentication in React Native applications.",
+      "description": "Handles biometric authentication like fingerprint and face verification in React Native apps.",
       "url": "https://www.npmjs.com/package/react-native-biometric-verifier"
     },
     {
-      "icon": "FaBrain",
+      "icon": "FaLaptopCode",
       "title": "react-native-tauri",
-      "description": "A package for building cross-platform desktop applications using web technologies.",
+      "description": "Build lightweight cross-platform desktop apps using Tauri with React Native concepts.",
       "url": "https://www.npmjs.com/package/react-native-tauri"
     },
     {
-      "icon": "FaTasks",
+      "icon": "FaDownload",
       "title": "react-native-installer",
-      "description": "A package for installing and managing React Native applications across different platforms.",
+      "description": "Simplifies installation and setup of React Native applications across platforms.",
       "url": "https://www.npmjs.com/package/react-native-installer"
     }
-  ]
- }
+  ],
+  "demo": "https://www.npmjs.com/~prafuldas",
+  "github": "https://github.com/dpraful",
+  "status": "Production Ready",
+  "description": "A collection of production-ready React Native packages focused on cross-platform support, security, and developer productivity. These tools help streamline app development across mobile and desktop environments while ensuring performance and reliability."
+}

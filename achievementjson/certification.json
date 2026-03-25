@@ -3,62 +3,66 @@
     {
       "icon": "FaPython",
       "title": "Python FullStack Certification",
-      "description": "Certification demonstrating proficiency in Python full-stack development, including backend frameworks, frontend integration, databases, and deployment.",
+      "description": "Validates expertise in Python full-stack development, including backend frameworks, frontend integration, databases, and deployment.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img1.jpg"
     },
     {
-      "icon": "FaCar",
+      "icon": "FaTools",
       "title": "Automotive Service Certification",
-      "description": "Certification validating technical knowledge in automotive service, maintenance procedures, diagnostics, and vehicle systems.",
+      "description": "Demonstrates technical knowledge in automotive diagnostics, maintenance procedures, and vehicle systems.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img2.jpg"
     },
     {
-      "icon": "FaPaperPlane",
+      "icon": "FaExchangeAlt",
       "title": "Postman Certification",
-      "description": "Certification showcasing skills in API testing, request automation, collections, environments, and RESTful service validation using Postman.",
+      "description": "Showcases skills in API testing, automation, RESTful services, and workflow management using Postman.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img3.jpg"
     },
     {
       "icon": "FaBrain",
       "title": "AI Certification",
-      "description": "Certification covering artificial intelligence fundamentals, machine learning concepts, model training, and real-world AI applications.",
+      "description": "Covers artificial intelligence fundamentals, machine learning concepts, and real-world AI applications.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img4.jpg"
     },
     {
-      "icon": "FaTasks",
+      "icon": "FaProjectDiagram",
       "title": "Agile Project Management Certification",
-      "description": "Certification validating knowledge of Agile methodologies, Scrum practices, sprint planning, and iterative project delivery.",
+      "description": "Validates knowledge of Agile methodologies, Scrum practices, sprint planning, and iterative delivery.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img5.jpg"
     },
     {
-      "icon": "FaChartLine",
+      "icon": "FaChartBar",
       "title": "Data Science Certification",
-      "description": "Certification demonstrating expertise in data analysis, statistics, data visualization, and predictive modeling techniques.",
+      "description": "Demonstrates expertise in data analysis, visualization, statistics, and predictive modeling.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img6.jpg"
     },
     {
       "icon": "FaShieldAlt",
       "title": "Cyber Security Certification",
-      "description": "Certification focused on cybersecurity principles, threat detection, network security, risk management, and data protection.",
+      "description": "Focuses on cybersecurity principles, threat detection, risk management, and data protection.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img7.jpg"
     },
     {
       "icon": "FaMobileAlt",
       "title": "React Native Certification",
-      "description": "Certification proving skills in building cross-platform mobile applications using React Native, components, hooks, and APIs.",
+      "description": "Proves skills in building cross-platform mobile apps using React Native, including components, hooks, and APIs.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img8.jpg"
     },
     {
-      "icon": "FaFileAlt",
+      "icon": "FaFileInvoice",
       "title": "JasperSoft Certification",
-      "description": "Certification validating expertise in JasperSoft reporting tools, report design, data sources, and enterprise reporting solutions.",
+      "description": "Validates expertise in JasperSoft reporting, report design, and enterprise data solutions.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img9.jpg"
     },
     {
       "icon": "FaDatabase",
       "title": "MongoDB Certification",
-      "description": "Certification demonstrating knowledge of MongoDB database design, CRUD operations, indexing, aggregation, and performance optimization.",
+      "description": "Demonstrates knowledge of MongoDB, including schema design, queries, indexing, and performance optimization.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img10.jpg"
     }
-  ]
- }
+  ],
+  "demo": "https://www.npmjs.com/~prafuldas",
+  "github": "https://github.com/dpraful",
+  "status": "Verified Certifications",
+  "description": "A curated collection of professional certifications covering software development, AI, data science, cybersecurity, and modern development tools. These certifications reflect strong technical expertise and continuous learning across multiple domains."
+}
