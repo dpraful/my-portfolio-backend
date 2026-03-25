@@ -1,64 +1,24 @@
-{
-  "imageurl": [
-    {
-      "icon": "FaPython",
-      "title": "Python FullStack Certification",
-      "description": "Certification demonstrating proficiency in Python full-stack development, including backend frameworks, frontend integration, databases, and deployment.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img1.jpg"
-    },
-    {
-      "icon": "FaCar",
-      "title": "Automotive Service Certification",
-      "description": "Certification validating technical knowledge in automotive service, maintenance procedures, diagnostics, and vehicle systems.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img2.jpg"
-    },
-    {
-      "icon": "FaPaperPlane",
-      "title": "Postman Certification",
-      "description": "Certification showcasing skills in API testing, request automation, collections, environments, and RESTful service validation using Postman.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img3.jpg"
-    },
-    {
-      "icon": "FaBrain",
-      "title": "AI Certification",
-      "description": "Certification covering artificial intelligence fundamentals, machine learning concepts, model training, and real-world AI applications.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img4.jpg"
-    },
-    {
-      "icon": "FaTasks",
-      "title": "Agile Project Management Certification",
-      "description": "Certification validating knowledge of Agile methodologies, Scrum practices, sprint planning, and iterative project delivery.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img5.jpg"
-    },
-    {
-      "icon": "FaChartLine",
-      "title": "Data Science Certification",
-      "description": "Certification demonstrating expertise in data analysis, statistics, data visualization, and predictive modeling techniques.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img6.jpg"
-    },
-    {
-      "icon": "FaShieldAlt",
-      "title": "Cyber Security Certification",
-      "description": "Certification focused on cybersecurity principles, threat detection, network security, risk management, and data protection.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img7.jpg"
-    },
-    {
-      "icon": "FaMobileAlt",
-      "title": "React Native Certification",
-      "description": "Certification proving skills in building cross-platform mobile applications using React Native, components, hooks, and APIs.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img8.jpg"
-    },
-    {
-      "icon": "FaFileAlt",
-      "title": "JasperSoft Certification",
-      "description": "Certification validating expertise in JasperSoft reporting tools, report design, data sources, and enterprise reporting solutions.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img9.jpg"
-    },
-    {
-      "icon": "FaDatabase",
-      "title": "MongoDB Certification",
-      "description": "Certification demonstrating knowledge of MongoDB database design, CRUD operations, indexing, aggregation, and performance optimization.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/files/achievefiles/img10.jpg"
-    }
-  ]
- }
+[
+  {
+    "name": "CERTIFICATIONS",
+    "icon": "FaCertificate",
+    "color": "#805AD5",
+    "tags": [
+      "Software Development",
+      "Cross Platform Development",
+      "AI & Machine Learning"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/certification.json"
+  },
+  {
+    "name": "NPM PACKAGE CONTRIBUTIONS",
+    "icon": "FaNpm",
+    "color": "#CB3837",
+    "tags": [
+      "React Native",
+      "React.js",
+      "Electron.js"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/npm.json"
+  }
+]
