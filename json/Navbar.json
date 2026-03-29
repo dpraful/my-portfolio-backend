@@ -1,5 +1,6 @@
 {
   "logo": "PRAFULDAS M M",
+  "color": "#ffaa00",
   "sections": [
     {
       "name": "Hero",
@@ -37,7 +38,7 @@
       "bg": "education.jpg",
       "enabled": true
     },
-     {
+    {
       "name": "Achievements",
       "component": "Achievements",
       "bg": "achievements.jpg",

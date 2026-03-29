@@ -4,6 +4,7 @@
   "highlight": "Software Developer",
   "experience": "",
   "profileImage": "profile.jpg",
+  "color": "#ffaa00",
   "buttons": [
     {
       "label": "View My Work",
