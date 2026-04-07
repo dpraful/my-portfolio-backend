@@ -1,0 +1,14 @@
+{
+  "imageurl": [
+    {
+      "icon": "FaPython",
+      "title": "insightface-recognition-sdk",
+      "description": "A Python SDK for face recognition using InsightFace. Supports face encoding, recognition, and database management with optional FastAPI integration.",
+      "url": "https://pypi.org/project/insightface-recognition-sdk/"
+    }
+  ],
+  "demo": "https://pypi.org/user/d.praful",
+  "github": "https://github.com/dpraful",
+  "status": "Production Ready",
+  "description": "A collection of production-ready packages including React Native tools for cross-platform development and a Python SDK for face recognition. These tools focus on performance, scalability, and developer productivity across mobile, desktop, and AI-powered applications."
+}

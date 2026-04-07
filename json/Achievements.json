@@ -19,5 +19,15 @@
       "Electron.js"
     ],
     "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/npm.json"
+  },
+  {
+    "name": "PYPI PACKAGE CONTRIBUTIONS",
+    "icon": "SiPypi",
+    "color": "#3775A9",
+    "tags": [
+      "Django",
+      "FastAPI"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/pypi.json"
   }
 ]
