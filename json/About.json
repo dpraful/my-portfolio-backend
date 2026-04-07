@@ -1,4 +1,79 @@
 {
+  "name": "PRAFULDAS M M",
+  "roles": [
+    "SOFTWARE ENGINEER",
+    "FULLSTACK DEVELOPER",
+    "WEB | MOBILE | PC"
+  ],
+  "resume": "PRAFULDASMM.pdf",
+  "resumeButton": {
+    "label": "Download Resume",
+    "icon": "FaDownload",
+    "size": 18,
+    "color": "#ffffff"
+  },
+  "3Dmodels": {
+    "camera": {
+      "position": [
+        0,
+        5,
+        0
+      ],
+      "fov": 50
+    },
+    "lights": {
+      "ambient": {
+        "enabled": true,
+        "intensity": 0.7
+      },
+      "directional": {
+        "enabled": true,
+        "position": [
+          3,
+          3,
+          3
+        ],
+        "intensity": 2
+      }
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/3dmodels/model1.glb"
+    },
+    "float": {
+      "enabled": true,
+      "speed": 2,
+      "rotationIntensity": 1,
+      "floatIntensity": 2
+    },
+    "bounds": {
+      "enabled": true,
+      "fit": true,
+      "clip": true,
+      "observe": true,
+      "margin": 2
+    },
+    "environment": {
+      "enabled": true,
+      "preset": "city"
+    },
+    "orbitControls": {
+      "enabled": true,
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "enablePan": false,
+      "maxPolarAngle": 1.5708,
+      "minPolarAngle": 0
+    }
+  },
+  "scrollDown": {
+    "icon": "FaArrowDown",
+    "href": "#contact",
+    "size": 18,
+    "color": "#ffffff"
+  },
   "title": "About Me",
   "subtitle": "I am a passionate Software Developer with 2+ years of experience in designing and developing scalable applications.",
   "highlight": "Software Developer",
@@ -15,6 +90,32 @@
       "label": "Let's Connect",
       "type": "link",
       "url": "https://www.linkedin.com/in/prafuldasmm"
+    }
+  ],
+  "socials": [
+    {
+      "icon": "FaGithub",
+      "url": "https://github.com/dpraful",
+      "color": "#333",
+      "size": 22
+    },
+    {
+      "icon": "FaLinkedin",
+      "url": "https://linkedin.com/in/prafuldasmm",
+      "color": "#0077B5",
+      "size": 22
+    },
+    {
+      "icon": "FaTwitter",
+      "url": "https://twitter.com/dprafulmm",
+      "color": "#1DA1F2",
+      "size": 22
+    },
+    {
+      "icon": "FaEnvelope",
+      "url": "mailto:d.praful@outlook.com",
+      "color": "#E53E3E",
+      "size": 22
     }
   ]
 }
