@@ -3,12 +3,6 @@
   "color": "#ffaa00",
   "sections": [
     {
-      "name": "Hero",
-      "component": "Hero",
-      "bg": "hero.jpg",
-      "enabled": true
-    },
-    {
       "name": "About",
       "component": "About",
       "bg": "about.jpg",
