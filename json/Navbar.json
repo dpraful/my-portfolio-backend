@@ -6,42 +6,49 @@
       "name": "About",
       "component": "About",
       "bg": "about.jpg",
+      "video": "about.webm",
       "enabled": true
     },
     {
       "name": "Skills",
       "component": "Skills",
       "bg": "skills.jpg",
+      "video": "skills.webm",
       "enabled": true
     },
     {
       "name": "Experience",
       "component": "Experience",
       "bg": "experience.jpg",
+      "video": "experience.webm",
       "enabled": true
     },
     {
       "name": "Projects",
       "component": "Projects",
       "bg": "projects.jpg",
+      "video": "projects.webm",
       "enabled": true
     },
     {
       "name": "Education",
       "component": "Education",
       "bg": "education.jpg",
+      "video": "education.webm",
       "enabled": true
     },
     {
       "name": "Achievements",
       "component": "Achievements",
       "bg": "achievements.jpg",
+      "video": "achievements.webm",
       "enabled": true
     },
     {
       "name": "Contact",
       "component": "Contact",
       "bg": "contact.jpg",
+      "video": "contact.webm",
       "enabled": true
     }
   ]
