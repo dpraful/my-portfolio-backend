@@ -1,6 +1,7 @@
 {
   "imageurl": [
     {
+      "id": 1,
       "icon": "FaPython",
       "title": "insightface-recognition-sdk",
       "description": "A Python SDK for face recognition using InsightFace. Supports face encoding, recognition, and database management with optional FastAPI integration.",

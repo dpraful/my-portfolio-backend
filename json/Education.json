@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "icon": "FaUniversity",
     "title": "MASTERS IN COMPUTER APPLICATIONS",
     "company": "IGNOU UNIVERSITY",
@@ -8,6 +9,7 @@
     "color": "#ffaa00"
   },
   {
+    "id": 2,
     "icon": "FaUniversity",
     "title": "BACHELORS IN COMPUTER APPLICATIONS",
     "company": "KERALA UNIVERSITY",

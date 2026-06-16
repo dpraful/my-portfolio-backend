@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "icon": "FaBriefcase",
     "title": "Software Developer",
     "company": "Jescon Technologies",
@@ -8,6 +9,7 @@
     "color": "#ffaa00"
   },
   {
+    "id": 2,
     "icon": "FaLaptopCode",
     "title": "No-Code Developer",
     "company": "Claysys Technologies",
@@ -16,6 +18,7 @@
     "color": "#ffaa00"
   },
   {
+    "id": 3,
     "icon": "FaCode",
     "title": "Jr. Software Developer",
     "company": "Techolas Technologies",

@@ -1,35 +1,40 @@
 {
+  "id": 1,
   "name": "PRAFULDAS M M",
   "location": "Kerala, India",
   "email": "d.praful@outlook.com",
   "socials": [
     {
+      "id": 1,
       "icon": "FaGithub",
       "url": "https://github.com/dpraful",
       "color": "#333",
       "size": 22
     },
     {
+      "id": 2,
       "icon": "FaLinkedin",
       "url": "https://linkedin.com/in/prafuldasmm",
       "color": "#0077B5",
       "size": 22
     },
     {
+      "id": 3,
       "icon": "FaTwitter",
       "url": "https://twitter.com/dprafulmm",
       "color": "#1DA1F2",
       "size": 22
     },
     {
+      "id": 4,
       "icon": "FaEnvelope",
       "url": "mailto:d.praful@outlook.com",
       "color": "#E53E3E",
       "size": 22
     }
   ],
-
   "backToTopIcon": {
+    "id": 1,
     "icon": "FaArrowUp",
     "size": 18,
     "color": "#000"

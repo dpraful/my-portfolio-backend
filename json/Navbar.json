@@ -1,8 +1,10 @@
 {
+  "id": 1,
   "logo": "PRAFULDAS M M",
   "color": "#ffaa00",
   "sections": [
     {
+      "id": 1,
       "name": "About",
       "component": "About",
       "bg": "about.jpg",
@@ -10,6 +12,7 @@
       "enabled": true
     },
     {
+      "id": 2,
       "name": "Skills",
       "component": "Skills",
       "bg": "skills.jpg",
@@ -17,6 +20,7 @@
       "enabled": true
     },
     {
+      "id": 3,
       "name": "Experience",
       "component": "Experience",
       "bg": "experience.jpg",
@@ -24,6 +28,7 @@
       "enabled": true
     },
     {
+      "id": 4,
       "name": "Projects",
       "component": "Projects",
       "bg": "projects.jpg",
@@ -31,6 +36,7 @@
       "enabled": true
     },
     {
+      "id": 5,
       "name": "Education",
       "component": "Education",
       "bg": "education.jpg",
@@ -38,6 +44,7 @@
       "enabled": true
     },
     {
+      "id": 6,
       "name": "Achievements",
       "component": "Achievements",
       "bg": "achievements.jpg",
@@ -45,6 +52,7 @@
       "enabled": true
     },
     {
+      "id": 7,
       "name": "Contact",
       "component": "Contact",
       "bg": "contact.jpg",

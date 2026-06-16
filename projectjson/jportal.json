@@ -1,48 +1,56 @@
 {
   "imageurl": [
     {
+      "id": 1,
       "icon": "FaTachometerAlt",
       "title": "Dashboard",
       "description": "Central dashboard providing an overview of job applications, profile completion status, saved jobs, and recent activity for both job seekers and recruiters.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/jportal/img1.jpg"
     },
     {
+      "id": 2,
       "icon": "FaInfoCircle",
       "title": "About",
-      "description": "Informational section describing the job portal’s mission, features, company background, and how it helps candidates and employers connect efficiently.",
+      "description": "Informational section describing the job portal's mission, features, company background, and how it helps candidates and employers connect efficiently.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/jportal/img2.jpg"
     },
     {
+      "id": 3,
       "icon": "FaTasks",
       "title": "Responsibility",
       "description": "Job responsibility details outlining roles, duties, required skills, and expectations for specific job positions posted by employers.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/jportal/img3.jpg"
     },
     {
+      "id": 4,
       "icon": "FaBriefcase",
       "title": "Job List",
       "description": "Comprehensive list of available job openings with key information such as job title, company name, location, experience level, and job type.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/jportal/img4.jpg"
     },
     {
+      "id": 5,
       "icon": "FaSearch",
       "title": "Job Search",
       "description": "Advanced job search feature allowing users to filter jobs by keyword, location, experience, salary range, and employment type.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/jportal/img5.jpg"
     },
     {
+      "id": 6,
       "icon": "FaEnvelope",
       "title": "Contact",
       "description": "Contact page enabling users to reach administrators or support teams for inquiries, feedback, or assistance related to jobs and accounts.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/jportal/img6.jpg"
     },
     {
+      "id": 7,
       "icon": "FaMapMarkerAlt",
       "title": "Location",
       "description": "Job location view displaying workplace addresses, city-wise job availability, and map-based job discovery for candidates.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/jportal/img7.jpg"
     },
     {
+      "id": 8,
       "icon": "FaUserPlus",
       "title": "Registration",
       "description": "User registration and profile creation module for job seekers and employers to sign up, manage resumes, and post job vacancies.",
