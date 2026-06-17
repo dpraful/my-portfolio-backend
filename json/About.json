@@ -1,19 +1,32 @@
 {
+  "id": 1,
   "name": "PRAFULDAS M M",
   "roles": [
-    "SOFTWARE ENGINEER",
-    "FULLSTACK DEVELOPER",
-    "WEB | MOBILE | PC"
+    {
+      "id": 1,
+      "role": "SOFTWARE ENGINEER"
+    },
+    {
+      "id": 2,
+      "role": "FULLSTACK DEVELOPER"
+    },
+    {
+      "id": 3,
+      "role": "WEB | MOBILE | PC"
+    }
   ],
   "resume": "PRAFULDASMM.pdf",
   "resumeButton": {
+    "id": 1,
     "label": "Download Resume",
     "icon": "FaDownload",
     "size": 18,
     "color": "#ffffff"
   },
   "3Dmodels": {
+    "id": 1,
     "camera": {
+      "id": 1,
       "position": [
         0,
         5,
@@ -22,11 +35,14 @@
       "fov": 50
     },
     "lights": {
+      "id": 1,
       "ambient": {
+        "id": 1,
         "enabled": true,
         "intensity": 0.7
       },
       "directional": {
+        "id": 1,
         "enabled": true,
         "position": [
           3,
@@ -37,15 +53,18 @@
       }
     },
     "model": {
+      "id": 1,
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/3dmodels/model1.glb"
     },
     "float": {
+      "id": 1,
       "enabled": true,
       "speed": 2,
       "rotationIntensity": 1,
       "floatIntensity": 2
     },
     "bounds": {
+      "id": 1,
       "enabled": true,
       "fit": true,
       "clip": true,
@@ -53,10 +72,12 @@
       "margin": 2
     },
     "environment": {
+      "id": 1,
       "enabled": true,
       "preset": "city"
     },
     "orbitControls": {
+      "id": 1,
       "enabled": true,
       "target": [
         0,
@@ -69,6 +90,7 @@
     }
   },
   "scrollDown": {
+    "id": 1,
     "icon": "FaArrowDown",
     "href": "#contact",
     "size": 18,
@@ -82,11 +104,13 @@
   "color": "#ffaa00",
   "buttons": [
     {
+      "id": 1,
       "label": "View My Work",
       "type": "scroll",
       "targetSection": 4
     },
     {
+      "id": 2,
       "label": "Let's Connect",
       "type": "link",
       "url": "https://www.linkedin.com/in/prafuldasmm"
@@ -94,24 +118,28 @@
   ],
   "socials": [
     {
+      "id": 1,
       "icon": "FaGithub",
       "url": "https://github.com/dpraful",
       "color": "#333",
       "size": 22
     },
     {
+      "id": 2,
       "icon": "FaLinkedin",
       "url": "https://linkedin.com/in/prafuldasmm",
       "color": "#0077B5",
       "size": 22
     },
     {
+      "id": 3,
       "icon": "FaTwitter",
       "url": "https://twitter.com/dprafulmm",
       "color": "#1DA1F2",
       "size": 22
     },
     {
+      "id": 4,
       "icon": "FaEnvelope",
       "url": "mailto:d.praful@outlook.com",
       "color": "#E53E3E",
