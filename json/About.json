@@ -3,15 +3,12 @@
   "name": "PRAFULDAS M M",
   "roles": [
     {
-      "id": 1,
       "role": "SOFTWARE ENGINEER"
     },
     {
-      "id": 2,
       "role": "FULLSTACK DEVELOPER"
     },
     {
-      "id": 3,
       "role": "WEB | MOBILE | PC"
     }
   ],
