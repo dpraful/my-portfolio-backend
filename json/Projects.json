@@ -131,5 +131,30 @@
       }
     ],
     "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/igame.json"
+  },
+  {
+    "id": 7,
+    "name": "EMR",
+    "icon": "FaFileMedical",
+    "color": "#E53E3E",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "ReactNative"
+      },
+      {
+        "id": 2,
+        "tag": "SpringBoot"
+      },
+      {
+        "id": 3,
+        "tag": "FastAPI"
+      },
+      {
+        "id": 4,
+        "tag": "MSSql"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/emr.json"
   }
 ]

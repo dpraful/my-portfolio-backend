@@ -1,0 +1,50 @@
+{
+  "imageurl": [
+    {
+      "id": 1,
+      "icon": "FaMobileAlt",
+      "title": "Biometric Mobile Login",
+      "description": "React Native based biometric authentication module enabling secure workforce login using face recognition with liveness detection, optimized for real-time performance.",
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img1.jpg"
+    },
+    {
+      "id": 2,
+      "icon": "FaCamera",
+      "title": "Face Capture & Liveness Detection",
+      "description": "High-performance face capture using Vision Camera with TensorFlow-powered anti-spoofing and Laplacian scoring to prevent fraudulent access attempts.",
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img2.jpg"
+    },
+    {
+      "id": 3,
+      "icon": "FaQrcode",
+      "title": "QR-Based Location Verification",
+      "description": "QR scanning with hospital-restricted geofencing to ensure biometric verification occurs only within authorized departments and physical zones.",
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img3.jpg"
+    },
+    {
+      "id": 4,
+      "icon": "FaServer",
+      "title": "Face Recognition Backend API",
+      "description": "FastAPI-based face recognition engine leveraging FAISS for sub-millisecond similarity search across employee face embeddings.",
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img4.jpg"
+    },
+    {
+      "id": 5,
+      "icon": "FaDatabase",
+      "title": "Audit Logging & Persistence",
+      "description": "Dual persistence architecture using SQL Server and local endpoints to ensure compliance-ready audit logs, traceability, and system redundancy.",
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img5.jpg"
+    },
+    {
+      "id": 6,
+      "icon": "FaTachometerAlt",
+      "title": "Performance & Scalability Engine",
+      "description": "Windows-optimized backend with dynamic thread pooling, LRU caching, and health checks, scaling efficiently to 10,000+ biometric profiles.",
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img6.jpg"
+    }
+  ],
+  "demo": "https://github.com/dpraful/Jescon",
+  "github": "https://github.com/dpraful/EcommerceStore",
+  "status": "In production",
+  "description": "A production-grade biometric verification ecosystem integrated into a Hospital Information System (HIS). The platform combines real-time mobile face recognition, liveness detection, QR-based location validation, and a high-performance FAISS-powered backend to ensure secure, compliant, and ultra-fast workforce authentication. Designed with performance-first engineering, security-by-design principles, and scalable architecture for health-critical environments."
+}
