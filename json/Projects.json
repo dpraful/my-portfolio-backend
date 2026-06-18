@@ -134,7 +134,7 @@
   },
   {
     "id": 7,
-    "name": "EMR",
+    "name": "PATIENT PORTAL",
     "icon": "FaFileMedical",
     "color": "#E53E3E",
     "tags": [
@@ -155,6 +155,6 @@
         "tag": "MSSql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/emr.json"
+    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/patientportal.json"
   }
 ]
