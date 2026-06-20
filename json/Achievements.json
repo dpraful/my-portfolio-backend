@@ -53,5 +53,26 @@
       }
     ],
     "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/pypi.json"
+  },
+  {
+    "id": 4,
+    "name": "APP PRIVACY POLICIES",
+    "icon": "FaShieldAlt",
+    "color": "#38A169",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Google Play"
+      },
+      {
+        "id": 2,
+        "tag": "Privacy Policy"
+      },
+      {
+        "id": 3,
+        "tag": "Developer Resources"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/apppolicy.json"
   }
 ]
