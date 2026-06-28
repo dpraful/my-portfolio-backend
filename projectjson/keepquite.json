@@ -4,33 +4,35 @@
       "id": 1,
       "icon": "FaPlayCircle",
       "title": "Start",
-      "description": "Game start screen where the player begins the shape-matching challenge and enters the gameplay environment.",
+      "description": "Horror game start screen where the player enters the immersive environment and begins the sensor-based gameplay experience.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img1.jpg"
     },
     {
       "id": 2,
-      "icon": "FaShapes",
-      "title": "Image Selected",
-      "description": "Gameplay screen where a shape is displayed and the player selects the matching shape from the given options.",
+      "icon": "FaGamepad",
+      "title": "Sensor Gameplay",
+      "description": "Gameplay screen where gyroscope and motion sensors detect player movement to trigger real-time in-game horror events.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img2.jpg"
     },
     {
       "id": 3,
-      "icon": "FaTrophy",
-      "title": "Game Completed",
-      "description": "Completion screen shown after successfully matching all shapes, displaying results, score, or success message.",
+      "icon": "FaGhost",
+      "title": "Horror Events",
+      "description": "Suspense-driven moments where environmental effects and sound systems react dynamically based on player movements and actions.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img3.jpg"
     },
     {
       "id": 4,
       "icon": "FaRedoAlt",
-      "title": "Reset",
-      "description": "Allows the player to restart the game and play the shape-matching challenge again from the beginning.",
+      "title": "Restart Experience",
+      "description": "Option to restart the immersive horror gameplay and experience different sensor-triggered scenarios again.",
       "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img4.jpg"
     }
   ],
-  "demo": "https://github.com/dpraful/Jescon",
-  "github": "https://github.com/dpraful/MagicGame",
+  "techStack": ["React Native", "FastAPI", "MySQL"],
+  "projectTitle": "KeepQuite",
   "status": "In production",
-  "description": "This product screenshot showcases a shape-matching game where players identify and match different shapes such as circles, squares, and more. The game is designed to improve visual recognition and cognitive skills through simple, interactive, and engaging gameplay."
+  "description": "Developed a horror mobile game using React Native, FastAPI, and MySQL. The game leverages gyroscope and motion sensors to create immersive gameplay interactions, triggering in-game horror events based on player movement. Designed suspense-driven mechanics with responsive environmental effects and dynamic sound systems.",
+  "github": "https://github.com/dpraful/MagicGame",
+  "demo": "https://github.com/dpraful/Jescon"
 }
