@@ -156,5 +156,27 @@
       }
     ],
     "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/patientportal.json"
+  },
+  {
+    "id": 8,
+    "name": "KEEP QUITE GAME",
+    "link": "https://github.com/dpraful/MagicGame",
+    "icon": "FaPuzzlePiece",
+    "color": "#9F7AEA",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "React"
+      },
+      {
+        "id": 2,
+        "tag": "Flask"
+      },
+      {
+        "id": 3,
+        "tag": "MSSql"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/keepquite.json"
   }
 ]
