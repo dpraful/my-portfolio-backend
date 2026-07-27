@@ -123,13 +123,6 @@
     },
     {
       "id": 3,
-      "icon": "FaTwitter",
-      "url": "https://twitter.com/dprafulmm",
-      "color": "#1DA1F2",
-      "size": 22
-    },
-    {
-      "id": 4,
       "icon": "FaEnvelope",
       "url": "mailto:d.praful@outlook.com",
       "color": "#E53E3E",
