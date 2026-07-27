@@ -20,9 +20,9 @@
     },
     {
       "id": 3,
-      "icon": "FaTwitter",
-      "url": "https://twitter.com/dprafulmm",
-      "color": "#1DA1F2",
+      "icon": "FaNpm",
+      "url": "https://www.npmjs.com/~prafuldas",
+      "color": "#CB3837",
       "size": 22
     },
     {

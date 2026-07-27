@@ -123,6 +123,13 @@
     },
     {
       "id": 3,
+      "icon": "FaNpm",
+      "url": "https://www.npmjs.com/~prafuldas",
+      "color": "#CB3837",
+      "size": 22
+    },
+    {
+      "id": 4,
       "icon": "FaEnvelope",
       "url": "mailto:d.praful@outlook.com",
       "color": "#E53E3E",
