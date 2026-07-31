@@ -48,7 +48,7 @@
          }
       },
       "model":{
-         "url":"https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/3dmodels/model1.glb"
+         "url":"https://dpraful.github.io/my-portfolio-backend/3dmodels/model1.glb"
       },
       "float":{
          "enabled":true,

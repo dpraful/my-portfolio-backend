@@ -5,63 +5,63 @@
       "icon": "FaSignInAlt",
       "title": "Login",
       "description": "Secure login screen for insurance department staff to access the INSURE system using authorized credentials, ensuring data privacy and compliance.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img1.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img1.jpg"
     },
     {
       "id": 2,
       "icon": "FaTachometerAlt",
       "title": "Dashboard",
       "description": "Centralized dashboard providing an overview of insurance claims, patient status, pending approvals, processed cases, and key operational metrics.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img2.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img2.jpg"
     },
     {
       "id": 3,
       "icon": "FaFileInvoice",
       "title": "Insurance Claim Reports",
       "description": "Module for creating, viewing, and managing patient insurance claim reports, including treatment details, billing information, and claim status.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img3.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img3.jpg"
     },
     {
       "id": 4,
       "icon": "FaSearch",
       "title": "Advanced Patient Search",
       "description": "Advanced search functionality to quickly find patient insurance records using criteria such as patient ID, policy number, admission date, or insurer.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img4.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img4.jpg"
     },
     {
       "id": 5,
       "icon": "FaBars",
       "title": "Menu",
       "description": "Navigation menu providing quick access to insurance claim modules, patient records, reports, approvals, and system settings.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img5.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img5.jpg"
     },
     {
       "id": 6,
       "icon": "FaExchangeAlt",
       "title": "Credit Allocation",
       "description": "Feature for managing and allocating approved insurance credits or claim amounts to patient accounts based on insurer approval.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img6.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img6.jpg"
     },
     {
       "id": 7,
       "icon": "FaChartBar",
       "title": "Allocated by User Report",
       "description": "Report showing insurance claim allocations handled by individual users, helping track workload, accountability, and processing efficiency.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img7.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img7.jpg"
     },
     {
       "id": 8,
       "icon": "FaUserShield",
       "title": "Consolidated Report",
       "description": "Comprehensive consolidated report summarizing insurance claims across patients, insurers, and departments for analysis and audits.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img8.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img8.jpg"
     },
     {
       "id": 9,
       "icon": "FaFilter",
       "title": "Consolidated Report Criteria",
       "description": "Filter and criteria selection screen for generating customized consolidated insurance reports based on date range, insurer, status, or department.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/insure/img9.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/insure/img9.jpg"
     }
   ],
   "demo": "https://github.com/dpraful/Jescon",

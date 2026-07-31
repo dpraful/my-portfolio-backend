@@ -5,35 +5,35 @@
       "icon": "FaHome",
       "title": "Home Screen",
       "description": "Main menu of the game where players can start a new game, access settings, and view the scoreboard.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img1.png"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/keepquite/img1.png"
     },
     {
       "id": 2,
       "icon": "FaGamepad",
       "title": "Game Screen",
       "description": "Core gameplay screen where players use gyroscope and motion sensors to survive horror events while interacting with the game environment.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img2.png"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/keepquite/img2.png"
     },
     {
       "id": 3,
       "icon": "FaSkull",
       "title": "Game Over Screen",
       "description": "Displayed when the player loses the game, showing the final result with options to restart or return to the home screen.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img3.png"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/keepquite/img3.png"
     },
     {
       "id": 4,
       "icon": "FaCog",
       "title": "Settings Screen",
       "description": "Allows players to configure audio, gameplay preferences, and other game settings for a personalized experience.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img4.png"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/keepquite/img4.png"
     },
     {
       "id": 5,
       "icon": "FaTrophy",
       "title": "Scoreboard",
       "description": "Displays player scores, high scores, and performance statistics to track progress and achievements.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/keepquite/img5.png"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/keepquite/img5.png"
     }
   ],
   "techStack": [

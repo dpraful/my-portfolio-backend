@@ -5,56 +5,56 @@
       "icon": "FaTachometerAlt",
       "title": "Dashboard",
       "description": "Main control panel displaying store overview, recent orders, sales statistics, and quick access to key e-commerce features.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img1.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img1.jpg"
     },
     {
       "id": 2,
       "icon": "FaBoxOpen",
       "title": "Product Profile",
       "description": "Detailed product view showing product images, price, description, ratings, and availability similar to Amazon product pages.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img2.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img2.jpg"
     },
     {
       "id": 3,
       "icon": "FaComments",
       "title": "Comment Section",
       "description": "Customer review and comment section where users can share feedback, ratings, and experiences for purchased products.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img3.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img3.jpg"
     },
     {
       "id": 4,
       "icon": "FaMapMarkedAlt",
       "title": "Shipping Address",
       "description": "Address management screen allowing users to add, edit, and select delivery addresses for order shipment.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img4.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img4.jpg"
     },
     {
       "id": 5,
       "icon": "FaClipboardList",
       "title": "Order Summary",
       "description": "Final order review page showing selected products, quantities, delivery address, and total cost before payment.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img5.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img5.jpg"
     },
     {
       "id": 6,
       "icon": "FaCreditCard",
       "title": "Payment Screen",
       "description": "Secure checkout page for completing payments using multiple payment methods including cards and online gateways.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img6.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img6.jpg"
     },
     {
       "id": 7,
       "icon": "FaPaypal",
       "title": "PayPal Screen",
       "description": "Dedicated PayPal payment interface enabling fast and secure online transactions for customer orders.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img7.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img7.jpg"
     },
     {
       "id": 8,
       "icon": "FaUserCircle",
       "title": "User Profile",
       "description": "User account section to manage personal details, view order history, track purchases, and update account settings.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/estore/img8.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/estore/img8.jpg"
     }
   ],
   "demo": "https://github.com/dpraful/Jescon",

@@ -14,7 +14,7 @@
         "tag": "AI & Machine Learning"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/certification.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/achievementjson/certification.json"
   },
   {
     "id": 2,
@@ -35,7 +35,7 @@
         "tag": "Electron.js"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/npm.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/achievementjson/npm.json"
   },
   {
     "id": 3,
@@ -52,6 +52,6 @@
         "tag": "FastAPI"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/achievementjson/pypi.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/achievementjson/pypi.json"
   }
 ]

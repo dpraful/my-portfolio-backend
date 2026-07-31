@@ -5,42 +5,42 @@
       "icon": "FaIdCard",
       "title": "ABHA Creation & Verification",
       "description": "Implemented ABDM-compliant ABHA (Ayushman Bharat Health Account) creation, authentication, and verification workflows using Spring Boot APIs for seamless digital health identity management.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/pportal/img1.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pportal/img1.jpg"
     },
     {
       "id": 2,
       "icon": "FaMobileAlt",
       "title": "React Native Health App Integration",
       "description": "Integrated ABDM services into a React Native mobile application, enabling users to manage digital health identities and access healthcare services directly from mobile devices.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/pportal/img2.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pportal/img2.jpg"
     },
     {
       "id": 3,
       "icon": "FaLink",
       "title": "Health Record Linking",
       "description": "Developed secure APIs for linking patient health records with ABHA accounts, ensuring interoperability and seamless access to healthcare information across systems.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/pportal/img3.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pportal/img3.jpg"
     },
     {
       "id": 4,
       "icon": "FaShieldAlt",
       "title": "Consent-Based Data Sharing",
       "description": "Implemented ABDM consent management workflows, allowing patients to securely grant, manage, and revoke access to their health records while maintaining full control over personal data.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/pportal/img4.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pportal/img4.jpg"
     },
     {
       "id": 5,
       "icon": "FaServer",
       "title": "Spring Boot Healthcare APIs",
       "description": "Designed and developed scalable Spring Boot microservices for ABDM integration, ensuring reliable communication between healthcare providers and national digital health infrastructure.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/pportal/img5.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pportal/img5.jpg"
     },
     {
       "id": 6,
       "icon": "FaLock",
       "title": "Security, Privacy & Compliance",
       "description": "Implemented secure authentication, encrypted data exchange, auditability, and ABDM-compliant workflows to protect sensitive healthcare information and ensure regulatory compliance.",
-      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/pportal/img6.jpg"
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pportal/img6.jpg"
     }
   ],
   "demo": "https://play.google.com/store/apps/details?id=com.jescontechnologies.patientportalamala&pcampaignid=web_share",

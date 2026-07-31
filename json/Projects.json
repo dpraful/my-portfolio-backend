@@ -22,7 +22,7 @@
         "tag": "MSSql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/his.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/his.json"
   },
   {
     "id": 2,
@@ -43,7 +43,7 @@
         "tag": "MSSql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/inv.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/inv.json"
   },
   {
     "id": 3,
@@ -64,7 +64,7 @@
         "tag": "MSSql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/insure.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/insure.json"
   },
   {
     "id": 4,
@@ -86,7 +86,7 @@
         "tag": "MySql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/estore.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/estore.json"
   },
   {
     "id": 5,
@@ -108,7 +108,7 @@
         "tag": "MySql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/jportal.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/jportal.json"
   },
   {
     "id": 6,
@@ -130,7 +130,7 @@
         "tag": "MSSql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/igame.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/igame.json"
   },
   {
     "id": 7,
@@ -155,7 +155,7 @@
         "tag": "MSSql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/patientportal.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/patientportal.json"
   },
   {
     "id": 8,
@@ -177,6 +177,6 @@
         "tag": "MSSql"
       }
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectjson/keepquite.json"
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/keepquite.json"
   }
 ]
