@@ -5,6 +5,20 @@
     "icon": "FaPython",
     "detail": 0,
     "color": "#FFD43B",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Flask"
+      },
+      {
+        "id": 2,
+        "tag": "FastAPI"
+      },
+      {
+        "id": 3,
+        "tag": "AI & Machine Learning"
+      }
+    ],
     "url": "https://www.python.org"
   },
   {
@@ -13,6 +27,20 @@
     "icon": "FaJs",
     "detail": 0,
     "color": "#F0DB4F",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "ES6+"
+      },
+      {
+        "id": 2,
+        "tag": "DOM"
+      },
+      {
+        "id": 3,
+        "tag": "Async/Await"
+      }
+    ],
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   },
   {
@@ -21,6 +49,20 @@
     "icon": "SiTypescript",
     "detail": 0,
     "color": "#3178C6",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Interfaces"
+      },
+      {
+        "id": 2,
+        "tag": "Generics"
+      },
+      {
+        "id": 3,
+        "tag": "Type Safety"
+      }
+    ],
     "url": "https://www.typescriptlang.org"
   },
   {
@@ -30,6 +72,20 @@
     "detail": 0,
     "level": 95,
     "color": "#61DBFB",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Hooks"
+      },
+      {
+        "id": 2,
+        "tag": "React Router"
+      },
+      {
+        "id": 3,
+        "tag": "Component Based"
+      }
+    ],
     "url": "https://react.dev"
   },
   {
@@ -38,6 +94,20 @@
     "icon": "FaMobileAlt",
     "detail": 0,
     "color": "#61DBFB",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Android"
+      },
+      {
+        "id": 2,
+        "tag": "iOS"
+      },
+      {
+        "id": 3,
+        "tag": "Cross Platform"
+      }
+    ],
     "url": "https://reactnative.dev"
   },
   {
@@ -46,6 +116,20 @@
     "icon": "SiTensorflow",
     "detail": 0,
     "color": "#FF6F00",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Machine Learning"
+      },
+      {
+        "id": 2,
+        "tag": "Mobile AI"
+      },
+      {
+        "id": 3,
+        "tag": "Model Inference"
+      }
+    ],
     "url": "https://www.tensorflow.org/lite"
   },
   {
@@ -54,6 +138,20 @@
     "icon": "FaUserCheck",
     "detail": 0,
     "color": "#222222",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Face Recognition"
+      },
+      {
+        "id": 2,
+        "tag": "Computer Vision"
+      },
+      {
+        "id": 3,
+        "tag": "Deep Learning"
+      }
+    ],
     "url": "https://github.com/deepinsight/insightface"
   },
   {
@@ -62,6 +160,20 @@
     "icon": "SiFastapi",
     "detail": 0,
     "color": "#009688",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "REST API"
+      },
+      {
+        "id": 2,
+        "tag": "Python"
+      },
+      {
+        "id": 3,
+        "tag": "Swagger"
+      }
+    ],
     "url": "https://fastapi.tiangolo.com"
   },
   {
@@ -70,6 +182,20 @@
     "icon": "DiDjango",
     "detail": 0,
     "color": "#092E20",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Python"
+      },
+      {
+        "id": 2,
+        "tag": "ORM"
+      },
+      {
+        "id": 3,
+        "tag": "MVC"
+      }
+    ],
     "url": "https://www.djangoproject.com"
   },
   {
@@ -78,6 +204,20 @@
     "icon": "SiElectron",
     "detail": 0,
     "color": "#47848F",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Desktop App"
+      },
+      {
+        "id": 2,
+        "tag": "Cross Platform"
+      },
+      {
+        "id": 3,
+        "tag": "JavaScript"
+      }
+    ],
     "url": "https://www.electronjs.org"
   },
   {
@@ -86,6 +226,20 @@
     "icon": "SiRedux",
     "detail": 0,
     "color": "#764ABC",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "State Management"
+      },
+      {
+        "id": 2,
+        "tag": "Redux"
+      },
+      {
+        "id": 3,
+        "tag": "React"
+      }
+    ],
     "url": "https://redux-toolkit.js.org"
   },
   {
@@ -94,6 +248,20 @@
     "icon": "SiTailwindcss",
     "detail": 0,
     "color": "#38BDF8",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Responsive"
+      },
+      {
+        "id": 2,
+        "tag": "Utility First"
+      },
+      {
+        "id": 3,
+        "tag": "CSS"
+      }
+    ],
     "url": "https://tailwindcss.com"
   },
   {
@@ -102,6 +270,20 @@
     "icon": "FaDatabase",
     "detail": 0,
     "color": "#0078D7",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "SQL"
+      },
+      {
+        "id": 2,
+        "tag": "Stored Procedures"
+      },
+      {
+        "id": 3,
+        "tag": "Database Design"
+      }
+    ],
     "url": "https://www.microsoft.com/sql-server"
   },
   {
@@ -110,6 +292,20 @@
     "icon": "SiMongodb",
     "detail": 0,
     "color": "#47A248",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "NoSQL"
+      },
+      {
+        "id": 2,
+        "tag": "Aggregation"
+      },
+      {
+        "id": 3,
+        "tag": "Document Database"
+      }
+    ],
     "url": "https://www.mongodb.com"
   },
   {
@@ -118,6 +314,20 @@
     "icon": "FaDocker",
     "detail": 0,
     "color": "#2496ED",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Containers"
+      },
+      {
+        "id": 2,
+        "tag": "Docker Compose"
+      },
+      {
+        "id": 3,
+        "tag": "Deployment"
+      }
+    ],
     "url": "https://www.docker.com"
   },
   {
@@ -126,6 +336,20 @@
     "icon": "FaGitAlt",
     "detail": 0,
     "color": "#F05032",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "GitHub"
+      },
+      {
+        "id": 2,
+        "tag": "Version Control"
+      },
+      {
+        "id": 3,
+        "tag": "Branching"
+      }
+    ],
     "url": "https://git-scm.com"
   },
   {
@@ -134,6 +358,20 @@
     "icon": "FaFileAlt",
     "detail": 0,
     "color": "#6A1B9A",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Reports"
+      },
+      {
+        "id": 2,
+        "tag": "JRXML"
+      },
+      {
+        "id": 3,
+        "tag": "PDF Export"
+      }
+    ],
     "url": "https://www.jaspersoft.com"
   }
 ]
