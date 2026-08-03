@@ -3,27 +3,51 @@
     "id": 1,
     "icon": "FaBriefcase",
     "name": "Software Developer",
-    "company": "Jescon Technologies",
-    "duration": "Nov 2024 - Present",
-    "url": "https://www.jescontechnologies.com/",
-    "color": "#ffaa00"
+    "color": "#ffaa00",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Jescon Technologies"
+      },
+      {
+        "id": 2,
+        "tag": "Nov 2024 - Present"
+      }
+    ],
+    "url": "https://www.jescontechnologies.com/"
   },
   {
     "id": 2,
     "icon": "FaLaptopCode",
     "name": "No-Code Developer",
-    "company": "Claysys Technologies",
-    "duration": "July 2024 - Aug 2024",
-    "url": "https://www.claysys.com/",
-    "color": "#ffaa00"
+    "color": "#ffaa00",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Claysys Technologies"
+      },
+      {
+        "id": 2,
+        "tag": "July 2024 - Aug 2024"
+      }
+    ],
+    "url": "https://www.claysys.com/"
   },
   {
     "id": 3,
     "icon": "FaCode",
     "name": "Jr. Software Developer",
-    "company": "Techolas Technologies",
-    "duration": "July 2023 - April 2024",
-    "url": "https://techolas.com/",
-    "color": "#ffaa00"
+    "color": "#ffaa00",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "Techolas Technologies"
+      },
+      {
+        "id": 2,
+        "tag": "July 2023 - April 2024"
+      }
+    ],
+    "url": "https://techolas.com/"
   }
 ]

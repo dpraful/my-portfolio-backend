@@ -3,18 +3,34 @@
     "id": 1,
     "icon": "FaUniversity",
     "name": "MASTERS IN COMPUTER APPLICATIONS",
-    "company": "IGNOU UNIVERSITY",
-    "duration": "JULY 2024 - JULY 2026",
-    "url": "https://ignou.ac.in/",
-    "color": "#ffaa00"
+    "color": "#ffaa00",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "IGNOU UNIVERSITY"
+      },
+      {
+        "id": 2,
+        "tag": "JULY 2024 - JULY 2026"
+      }
+    ],
+    "url": "https://ignou.ac.in/"
   },
   {
     "id": 2,
     "icon": "FaUniversity",
     "name": "BACHELORS IN COMPUTER APPLICATIONS",
-    "company": "KERALA UNIVERSITY",
-    "duration": "JULY 2020 - APRIL 2023",
-    "url": "https://keralauniversity.ac.in/",
-    "color": "#ffaa00"
+    "color": "#ffaa00",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "KERALA UNIVERSITY"
+      },
+      {
+        "id": 2,
+        "tag": "JULY 2020 - APRIL 2023"
+      }
+    ],
+    "url": "https://keralauniversity.ac.in/"
   }
 ]
