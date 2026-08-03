@@ -3,6 +3,7 @@
     "id": 1,
     "name": "HIS",
     "icon": "FaUserShield",
+    "detail": 1,
     "color": "#2B6CB0",
     "tags": [
       {
@@ -28,6 +29,7 @@
     "id": 2,
     "name": "INV",
     "icon": "FaBoxes",
+    "detail": 1,
     "color": "#4299E1",
     "tags": [
       {
@@ -49,6 +51,7 @@
     "id": 3,
     "name": "INSURE",
     "icon": "FaFileInvoiceDollar",
+    "detail": 1,
     "color": "#38A169",
     "tags": [
       {
@@ -70,6 +73,7 @@
     "id": 4,
     "name": "ECOMMERCE STORE",
     "icon": "FaStore",
+    "detail": 1,
     "color": "#38A169",
     "tags": [
       {
@@ -91,6 +95,7 @@
     "id": 5,
     "name": "JOB PORTAL",
     "icon": "FaBriefcase",
+    "detail": 1,
     "color": "#5A67D8",
     "tags": [
       {
@@ -112,6 +117,7 @@
     "id": 6,
     "name": "IMAGE GAME",
     "icon": "FaPuzzlePiece",
+    "detail": 1,
     "color": "#9F7AEA",
     "tags": [
       {
@@ -133,6 +139,7 @@
     "id": 7,
     "name": "PATIENT PORTAL",
     "icon": "FaFileMedical",
+    "detail": 1,
     "color": "#E53E3E",
     "tags": [
       {
@@ -158,6 +165,7 @@
     "id": 8,
     "name": "KEEP QUITE",
     "icon": "FaPuzzlePiece",
+    "detail": 1,
     "color": "#9F7AEA",
     "tags": [
       {

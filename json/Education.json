@@ -3,6 +3,7 @@
     "id": 1,
     "icon": "FaUniversity",
     "name": "MASTERS IN COMPUTER APPLICATIONS",
+    "detail": 0,
     "color": "#ffaa00",
     "tags": [
       {
@@ -20,6 +21,7 @@
     "id": 2,
     "icon": "FaUniversity",
     "name": "BACHELORS IN COMPUTER APPLICATIONS",
+    "detail": 0,
     "color": "#ffaa00",
     "tags": [
       {

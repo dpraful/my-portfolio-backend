@@ -22,7 +22,7 @@
     {
       "id": 3,
       "name": "Experience",
-      "component": "Experience",
+      "component": "Skills",
       "bg": "experience.jpg",
       "video": "experience.webm",
       "enabled": true
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Projects",
-      "component": "Projects",
+      "component": "Skills",
       "bg": "projects.jpg",
       "video": "projects.webm",
       "enabled": true
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "name": "Education",
-      "component": "Education",
+      "component": "Skills",
       "bg": "education.jpg",
       "video": "education.webm",
       "enabled": true
@@ -46,7 +46,7 @@
     {
       "id": 6,
       "name": "Achievements",
-      "component": "Achievements",
+      "component": "Skills",
       "bg": "achievements.jpg",
       "video": "achievements.webm",
       "enabled": true

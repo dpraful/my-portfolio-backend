@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Python",
     "icon": "FaPython",
+    "detail": 0,
     "color": "#FFD43B",
     "url": "https://www.python.org"
   },
@@ -10,6 +11,7 @@
     "id": 2,
     "name": "JavaScript",
     "icon": "FaJs",
+    "detail": 0,
     "color": "#F0DB4F",
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   },
@@ -17,6 +19,7 @@
     "id": 3,
     "name": "TypeScript",
     "icon": "SiTypescript",
+    "detail": 0,
     "color": "#3178C6",
     "url": "https://www.typescriptlang.org"
   },
@@ -24,6 +27,7 @@
     "id": 4,
     "name": "React",
     "icon": "FaReact",
+    "detail": 0,
     "level": 95,
     "color": "#61DBFB",
     "url": "https://react.dev"
@@ -32,6 +36,7 @@
     "id": 5,
     "name": "React Native",
     "icon": "FaMobileAlt",
+    "detail": 0,
     "color": "#61DBFB",
     "url": "https://reactnative.dev"
   },
@@ -39,6 +44,7 @@
     "id": 6,
     "name": "TensorFlow Lite",
     "icon": "SiTensorflow",
+    "detail": 0,
     "color": "#FF6F00",
     "url": "https://www.tensorflow.org/lite"
   },
@@ -46,6 +52,7 @@
     "id": 7,
     "name": "InsightFace",
     "icon": "FaUserCheck",
+    "detail": 0,
     "color": "#222222",
     "url": "https://github.com/deepinsight/insightface"
   },
@@ -53,6 +60,7 @@
     "id": 8,
     "name": "FastAPI",
     "icon": "SiFastapi",
+    "detail": 0,
     "color": "#009688",
     "url": "https://fastapi.tiangolo.com"
   },
@@ -60,6 +68,7 @@
     "id": 9,
     "name": "Django",
     "icon": "DiDjango",
+    "detail": 0,
     "color": "#092E20",
     "url": "https://www.djangoproject.com"
   },
@@ -67,6 +76,7 @@
     "id": 10,
     "name": "Electron",
     "icon": "SiElectron",
+    "detail": 0,
     "color": "#47848F",
     "url": "https://www.electronjs.org"
   },
@@ -74,6 +84,7 @@
     "id": 11,
     "name": "Redux Toolkit",
     "icon": "SiRedux",
+    "detail": 0,
     "color": "#764ABC",
     "url": "https://redux-toolkit.js.org"
   },
@@ -81,6 +92,7 @@
     "id": 12,
     "name": "Tailwind CSS",
     "icon": "SiTailwindcss",
+    "detail": 0,
     "color": "#38BDF8",
     "url": "https://tailwindcss.com"
   },
@@ -88,6 +100,7 @@
     "id": 13,
     "name": "MSSQL",
     "icon": "FaDatabase",
+    "detail": 0,
     "color": "#0078D7",
     "url": "https://www.microsoft.com/sql-server"
   },
@@ -95,6 +108,7 @@
     "id": 14,
     "name": "MongoDB",
     "icon": "SiMongodb",
+    "detail": 0,
     "color": "#47A248",
     "url": "https://www.mongodb.com"
   },
@@ -102,6 +116,7 @@
     "id": 15,
     "name": "Docker",
     "icon": "FaDocker",
+    "detail": 0,
     "color": "#2496ED",
     "url": "https://www.docker.com"
   },
@@ -109,6 +124,7 @@
     "id": 16,
     "name": "Git",
     "icon": "FaGitAlt",
+    "detail": 0,
     "color": "#F05032",
     "url": "https://git-scm.com"
   },
@@ -116,6 +132,7 @@
     "id": 17,
     "name": "JasperSoft",
     "icon": "FaFileAlt",
+    "detail": 0,
     "color": "#6A1B9A",
     "url": "https://www.jaspersoft.com"
   }

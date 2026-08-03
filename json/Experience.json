@@ -3,6 +3,7 @@
     "id": 1,
     "icon": "FaBriefcase",
     "name": "Software Developer",
+    "detail": 0,
     "color": "#ffaa00",
     "tags": [
       {
@@ -20,6 +21,7 @@
     "id": 2,
     "icon": "FaLaptopCode",
     "name": "No-Code Developer",
+    "detail": 0,
     "color": "#ffaa00",
     "tags": [
       {
@@ -37,6 +39,7 @@
     "id": 3,
     "icon": "FaCode",
     "name": "Jr. Software Developer",
+    "detail": 0,
     "color": "#ffaa00",
     "tags": [
       {

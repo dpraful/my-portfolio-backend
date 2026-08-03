@@ -3,6 +3,7 @@
     "id": 1,
     "name": "CERTIFICATIONS",
     "icon": "FaCertificate",
+    "detail": 1,
     "color": "#805AD5",
     "tags": [
       {
@@ -20,6 +21,7 @@
     "id": 2,
     "name": "NPM PACKAGE CONTRIBUTIONS",
     "icon": "FaNpm",
+    "detail": 1,
     "color": "#CB3837",
     "tags": [
       {
@@ -41,6 +43,7 @@
     "id": 3,
     "name": "PYPI PACKAGE CONTRIBUTIONS",
     "icon": "SiPypi",
+    "detail": 1,
     "color": "#3775A9",
     "tags": [
       {
