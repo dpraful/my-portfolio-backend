@@ -4,7 +4,7 @@
     "icon": "FaBriefcase",
     "name": "Software Developer",
     "detail": 0,
-    "color": "#ffaa00",
+    "color": "#3B82F6",
     "tags": [
       {
         "id": 1,
@@ -22,7 +22,7 @@
     "icon": "FaLaptopCode",
     "name": "No-Code Developer",
     "detail": 0,
-    "color": "#ffaa00",
+    "color": "#10B981",
     "tags": [
       {
         "id": 1,
@@ -40,7 +40,7 @@
     "icon": "FaCode",
     "name": "Jr. Software Developer",
     "detail": 0,
-    "color": "#ffaa00",
+    "color": "#8B5CF6",
     "tags": [
       {
         "id": 1,
