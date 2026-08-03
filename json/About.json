@@ -18,7 +18,7 @@
   "resume": "PRAFULDASMM.pdf",
   "resumeButton": {
     "id": 1,
-    "label": "Download Resume",
+    "label": "DOWNLOAD RESUME",
     "icon": "FaDownload",
     "size": 18,
     "color": "#ffffff"
