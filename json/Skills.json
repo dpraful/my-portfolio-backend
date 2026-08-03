@@ -5,7 +5,6 @@
     "icon": "FaPython",
     "detail": 0,
     "color": "#FFD43B",
-    "tags": [{ "id": 1, "tag": "Programming Language" }],
     "url": "https://www.python.org"
   },
   {
@@ -14,7 +13,6 @@
     "icon": "FaJs",
     "detail": 0,
     "color": "#F0DB4F",
-    "tags": [{ "id": 1, "tag": "Web Development" }],
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   },
   {
@@ -23,7 +21,6 @@
     "icon": "SiTypescript",
     "detail": 0,
     "color": "#3178C6",
-    "tags": [{ "id": 1, "tag": "Type Safety" }],
     "url": "https://www.typescriptlang.org"
   },
   {
@@ -33,7 +30,6 @@
     "detail": 0,
     "level": 95,
     "color": "#61DBFB",
-    "tags": [{ "id": 1, "tag": "Frontend" }],
     "url": "https://react.dev"
   },
   {
@@ -42,7 +38,6 @@
     "icon": "FaMobileAlt",
     "detail": 0,
     "color": "#61DBFB",
-    "tags": [{ "id": 1, "tag": "Cross Platform" }],
     "url": "https://reactnative.dev"
   },
   {
@@ -51,7 +46,6 @@
     "icon": "SiTensorflow",
     "detail": 0,
     "color": "#FF6F00",
-    "tags": [{ "id": 1, "tag": "Machine Learning" }],
     "url": "https://www.tensorflow.org/lite"
   },
   {
@@ -60,7 +54,6 @@
     "icon": "FaUserCheck",
     "detail": 0,
     "color": "#222222",
-    "tags": [{ "id": 1, "tag": "Face Recognition" }],
     "url": "https://github.com/deepinsight/insightface"
   },
   {
@@ -69,7 +62,6 @@
     "icon": "SiFastapi",
     "detail": 0,
     "color": "#009688",
-    "tags": [{ "id": 1, "tag": "REST API" }],
     "url": "https://fastapi.tiangolo.com"
   },
   {
@@ -78,7 +70,6 @@
     "icon": "DiDjango",
     "detail": 0,
     "color": "#092E20",
-    "tags": [{ "id": 1, "tag": "Backend" }],
     "url": "https://www.djangoproject.com"
   },
   {
@@ -87,7 +78,6 @@
     "icon": "SiElectron",
     "detail": 0,
     "color": "#47848F",
-    "tags": [{ "id": 1, "tag": "Desktop Apps" }],
     "url": "https://www.electronjs.org"
   },
   {
@@ -96,7 +86,6 @@
     "icon": "SiRedux",
     "detail": 0,
     "color": "#764ABC",
-    "tags": [{ "id": 1, "tag": "State Management" }],
     "url": "https://redux-toolkit.js.org"
   },
   {
@@ -105,7 +94,6 @@
     "icon": "SiTailwindcss",
     "detail": 0,
     "color": "#38BDF8",
-    "tags": [{ "id": 1, "tag": "CSS Framework" }],
     "url": "https://tailwindcss.com"
   },
   {
@@ -114,7 +102,6 @@
     "icon": "FaDatabase",
     "detail": 0,
     "color": "#0078D7",
-    "tags": [{ "id": 1, "tag": "Database" }],
     "url": "https://www.microsoft.com/sql-server"
   },
   {
@@ -123,7 +110,6 @@
     "icon": "SiMongodb",
     "detail": 0,
     "color": "#47A248",
-    "tags": [{ "id": 1, "tag": "NoSQL" }],
     "url": "https://www.mongodb.com"
   },
   {
@@ -132,7 +118,6 @@
     "icon": "FaDocker",
     "detail": 0,
     "color": "#2496ED",
-    "tags": [{ "id": 1, "tag": "Containerization" }],
     "url": "https://www.docker.com"
   },
   {
@@ -141,7 +126,6 @@
     "icon": "FaGitAlt",
     "detail": 0,
     "color": "#F05032",
-    "tags": [{ "id": 1, "tag": "Version Control" }],
     "url": "https://git-scm.com"
   },
   {
@@ -150,7 +134,7 @@
     "icon": "FaFileAlt",
     "detail": 0,
     "color": "#6A1B9A",
-    "tags": [{ "id": 1, "tag": "Reporting" }],
     "url": "https://www.jaspersoft.com"
   }
 ]
+ 
