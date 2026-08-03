@@ -2,7 +2,7 @@
   {
     "id": 1,
     "icon": "FaBriefcase",
-    "title": "Software Developer",
+    "name": "Software Developer",
     "company": "Jescon Technologies",
     "duration": "Nov 2024 - Present",
     "url": "https://www.jescontechnologies.com/",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "icon": "FaLaptopCode",
-    "title": "No-Code Developer",
+    "name": "No-Code Developer",
     "company": "Claysys Technologies",
     "duration": "July 2024 - Aug 2024",
     "url": "https://www.claysys.com/",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "icon": "FaCode",
-    "title": "Jr. Software Developer",
+    "name": "Jr. Software Developer",
     "company": "Techolas Technologies",
     "duration": "July 2023 - April 2024",
     "url": "https://techolas.com/",

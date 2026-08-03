@@ -69,7 +69,6 @@
   {
     "id": 4,
     "name": "ECOMMERCE STORE",
-    "link": "https://github.com/dpraful/EcommerceStore",
     "icon": "FaStore",
     "color": "#38A169",
     "tags": [
@@ -91,7 +90,6 @@
   {
     "id": 5,
     "name": "JOB PORTAL",
-    "link": "https://github.com/dpraful/JobPortal",
     "icon": "FaBriefcase",
     "color": "#5A67D8",
     "tags": [
@@ -113,7 +111,6 @@
   {
     "id": 6,
     "name": "IMAGE GAME",
-    "link": "https://github.com/dpraful/MagicGame",
     "icon": "FaPuzzlePiece",
     "color": "#9F7AEA",
     "tags": [
@@ -160,7 +157,6 @@
   {
     "id": 8,
     "name": "KEEP QUITE",
-    "link": "https://github.com/dpraful/MagicGame",
     "icon": "FaPuzzlePiece",
     "color": "#9F7AEA",
     "tags": [
