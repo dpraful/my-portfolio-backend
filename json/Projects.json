@@ -182,5 +182,27 @@
       }
     ],
     "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/keepquite.json"
+  },
+  {
+    "id": 9,
+    "name": "PIXA",
+    "icon": "FaFutbol",
+    "detail": 1,
+    "color": "#3182CE",
+    "tags": [
+      {
+        "id": 1,
+        "tag": "ReactNative"
+      },
+      {
+        "id": 2,
+        "tag": "FastAPI"
+      },
+      {
+        "id": 3,
+        "tag": "MySql"
+      }
+    ],
+    "url": "https://dpraful.github.io/my-portfolio-backend/projectjson/pixa.json"
   }
 ]
