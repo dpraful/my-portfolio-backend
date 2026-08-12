@@ -1,0 +1,50 @@
+{
+  "imageurl": [
+    {
+      "id": 1,
+      "icon": "FaRunning",
+      "title": "Sports Social Media Platform",
+      "description": "Developed a sports-focused social media platform that enables users to create profiles, share posts, interact with the sports community, and connect with other players and enthusiasts.",
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pixa/img1.jpg"
+    },
+    {
+      "id": 2,
+      "icon": "FaUser",
+      "title": "User Profiles & Social Connectivity",
+      "description": "Implemented user profile management and social features, allowing users to build their sports identity, share content, and connect with other members of the platform.",
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pixa/img2.jpg"
+    },
+    {
+      "id": 3,
+      "icon": "FaComments",
+      "title": "Real-Time Chat System",
+      "description": "Built a real-time chat system that enables users to communicate, interact, and stay connected with other sports community members.",
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pixa/img3.jpg"
+    },
+    {
+      "id": 4,
+      "icon": "FaCalendarCheck",
+      "title": "Turf Booking & Reservations",
+      "description": "Implemented turf discovery and online reservation management, enabling users to book sports facilities and manage their bookings through the application.",
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pixa/img4.jpg"
+    },
+    {
+      "id": 5,
+      "icon": "FaServer",
+      "title": "FastAPI Backend & MySQL",
+      "description": "Developed backend APIs using FastAPI with MySQL database integration to handle authentication, user management, social interactions, turf bookings, and application data.",
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pixa/img5.jpg"
+    },
+    {
+      "id": 6,
+      "icon": "FaBolt",
+      "title": "Real-Time Sports Platform",
+      "description": "Designed and integrated scalable React Native and FastAPI components to provide responsive social interactions, real-time communication, and reliable turf booking workflows.",
+      "url": "https://dpraful.github.io/my-portfolio-backend/projectfiles/pixa/img6.jpg"
+    }
+  ],
+  "demo": "https://play.google.com/store/apps/details?id=com.jescontechnologies.patientportalamala&pcampaignid=web_share",
+  "github": "https://github.com/dpraful/jescon",
+  "status": "In production",
+  "description": "SideKick is a sports social media and turf booking platform developed using React Native, FastAPI, and MySQL. The platform combines social networking and sports facility management by enabling users to create profiles, share posts, communicate through real-time chat, and reserve sports turfs online. The backend provides APIs for authentication, user management, social connectivity, chat, and booking operations, while the React Native application delivers a cross-platform mobile experience."
+}
