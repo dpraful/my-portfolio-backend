@@ -87,9 +87,10 @@
     "color": "#ffffff"
   },
   "title": "About Me",
-  "subtitle": "I am a passionate Software Developer with 2+ years of experience in designing and developing scalable applications.",
+  "subtitle": "I am a passionate Software Developer with",
   "highlight": "Software Developer",
-  "experience": "",
+  "joindate": "01/06/2023",
+  "experience": "+ years of experience in designing and developing scalable applications.",
   "profileImage": "profile.jpg",
   "color": "#ffaa00",
   "buttons": [
