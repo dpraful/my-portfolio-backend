@@ -41,9 +41,9 @@
     "FastAPI",
     "MySQL"
   ],
-  "projectTitle": "KeepQuite",
-  "status": "In production",
-  "description": "Developed a horror mobile game using React Native, FastAPI, and MySQL. The game leverages gyroscope and motion sensors to create immersive gameplay interactions, triggering in-game horror events based on player movement. Designed suspense-driven mechanics with responsive environmental effects and dynamic sound systems.",
+  "demo": "https://github.com/dpraful/Jescon",
   "github": "https://github.com/dpraful/MagicGame",
-  "demo": "https://github.com/dpraful/Jescon"
+  "status": "In production",
+  "screen": "projects",
+  "description": "Developed a horror mobile game using React Native, FastAPI, and MySQL. The game leverages gyroscope and motion sensors to create immersive gameplay interactions, triggering in-game horror events based on player movement. Designed suspense-driven mechanics with responsive environmental effects and dynamic sound systems."
 }

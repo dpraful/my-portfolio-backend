@@ -60,5 +60,6 @@
   "demo": "https://github.com/dpraful/Jescon",
   "github": "https://github.com/dpraful/JobPortal",
   "status": "In production",
+  "screen": "projects",
   "description": "This project showcases a full-featured Job Portal application inspired by platforms like Indeed and Naukri. It includes job searching, job listings, detailed job descriptions, responsibilities, location-based job discovery, user registration, and dashboard management. The system is designed to connect job seekers with employers through a modern UI and efficient recruitment workflow."
 }

@@ -46,5 +46,6 @@
   "demo": "https://play.google.com/store/apps/details?id=com.jescontechnologies.patientportalamala&pcampaignid=web_share",
   "github": "https://github.com/dpraful/jescon",
   "status": "In production",
+  "screen": "projects",
   "description": "SideKick is a sports social media and turf booking platform developed using React Native, FastAPI, and MySQL. The platform combines social networking and sports facility management by enabling users to create profiles, share posts, communicate through real-time chat, and reserve sports turfs online. The backend provides APIs for authentication, user management, social connectivity, chat, and booking operations, while the React Native application delivers a cross-platform mobile experience."
 }

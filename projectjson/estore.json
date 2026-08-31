@@ -60,5 +60,6 @@
   "demo": "https://github.com/dpraful/Jescon",
   "github": "https://github.com/dpraful/EcommerceStore",
   "status": "In production",
+  "screen": "projects",
   "description": "This product showcases a full-featured e-commerce store inspired by platforms like Amazon. It includes product browsing, detailed product pages, customer reviews, cart and checkout flow, address management, and secure payment integration. The system delivers a smooth online shopping experience with a modern UI and real-world e-commerce functionality."
 }

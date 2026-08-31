@@ -46,5 +46,6 @@
   "demo": "https://play.google.com/store/apps/details?id=com.jescontechnologies.patientportalamala&pcampaignid=web_share",
   "github": "https://github.com/dpraful/jescon",
   "status": "In production",
+  "screen": "projects",
   "description": "A large-scale Ayushman Bharat Digital Mission (ABDM) integration project developed at Jescon Technologies Pvt Ltd. The platform leverages Spring Boot microservices and React Native mobile applications to enable ABHA creation, health record linking, consent-driven data sharing, and secure interoperability across healthcare systems. Built with a strong focus on privacy, security, compliance, and scalable digital health infrastructure, contributing to India's national healthcare digitization initiative."
 }

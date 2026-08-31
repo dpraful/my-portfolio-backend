@@ -67,5 +67,6 @@
   "demo": "https://github.com/dpraful/Jescon",
   "github": "https://github.com/dpraful/EcommerceStore",
   "status": "In production",
+  "screen": "projects",
   "description": "INSURE is a hospital insurance management application designed to streamline patient insurance claim processing. The system enables insurance department staff to manage patient records, submit and track claims, allocate approved credits, and generate detailed reports. With secure access, advanced search, and comprehensive reporting, INSURE improves claim accuracy, operational efficiency, and transparency in hospital insurance workflows."
 }

@@ -46,5 +46,6 @@
   "demo": "https://github.com/dpraful/Jescon",
   "github": "https://github.com/dpraful/EcommerceStore",
   "status": "In production",
+  "screen": "projects",
   "description": "A production-grade biometric verification ecosystem integrated into a Hospital Information System (HIS). The platform combines real-time mobile face recognition, liveness detection, QR-based location validation, and a high-performance FAISS-powered backend to ensure secure, compliant, and ultra-fast workforce authentication. Designed with performance-first engineering, security-by-design principles, and scalable architecture for health-critical environments."
 }
