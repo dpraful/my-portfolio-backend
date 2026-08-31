@@ -60,5 +60,6 @@
   "demo": "https://github.com/dpraful/Jescon",
   "github": "https://github.com/dpraful/EcommerceStore",
   "status": "In production",
+  "screen": "projects",
   "description": "This inventory management system features a comprehensive set of modules designed to streamline operations, enhance accuracy, and provide real-time insights into inventory status. From secure login and centralized dashboards to detailed invoice management and dynamic stock reporting, the system offers robust functionality for efficient inventory control and decision-making."
 }
